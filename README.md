@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naititanwar
-- 👀 I’m interested in robotics, AI, and ML too! It's such a fascinating field.
+- 👀 I’m interested in robotics, AI, ML and aerospace too! It's such a fascinating field.
 - 🌱 I’m currently learning computer science engineering at NIT Delhi.
 - 💞️ I’m looking to collaborate on open-source projects and tackling coding challenges together.
 - 📫 How to reach me: Feel free to email me at naititanwar@gmail.com or connect with me on GitHub.
