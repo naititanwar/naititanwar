@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @naititanwar
+- 👀 I’m interested in robotics, AI, and ML too! It's such a fascinating field.
+- 🌱 I’m currently learning computer science engineering at NIT Delhi.
+- 💞️ I’m looking to collaborate on open-source projects and tackling coding challenges together.
+- 📫 How to reach me: Feel free to email me at naititanwar@gmail.com or connect with me on GitHub.
+- 😄 Pronouns: She/Her 
+- ⚡ Fun fact: I'm known for asking intriguing questions that may sound "stupid" at times and love experimenting with new recipes and baking treats in my free time!
